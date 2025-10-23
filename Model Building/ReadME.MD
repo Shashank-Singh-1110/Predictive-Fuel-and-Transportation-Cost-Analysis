@@ -1,4 +1,5 @@
 🤖 Model Building
+*Please note the pickle files are too large, that's why they haven't been uploaded*
 
 Two models are trained and saved using scikit-learn and joblib.
 
