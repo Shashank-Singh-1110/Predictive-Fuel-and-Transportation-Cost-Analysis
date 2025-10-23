@@ -1,6 +1,8 @@
+💻 Abstract:
+
 This project is a full-stack web application that predicts transportation costs and budget risks for logistics operations. It uses a machine learning backend (built with Python, Flask, and Scikit-learn) to analyze trip data and a dynamic frontend (built with HTML, Tailwind CSS, and JavaScript) to provide real-time forecasts to a user.
 
-✨ Features
+✨ Features:
 
 Accountant's Estimate: Predicts the exact fuel cost of a trip with high accuracy (MAE < ₹10) using a Random Forest Regressor.
 
