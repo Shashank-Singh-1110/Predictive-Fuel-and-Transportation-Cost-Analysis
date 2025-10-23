@@ -13,3 +13,7 @@ Historical fuel prices from a pre-scraped CSV.
 Real-time weather forecasts from the Open-Meteo API.
 
 Beautiful UI: A responsive, glassmorphism-style UI built with Tailwind CSS, featuring a dynamic results dashboard.
+
+Output of the following Project: 
+<img width="2880" height="1556" alt="image" src="https://github.com/user-attachments/assets/64e7e5b9-222c-4f77-86bc-1b8974ce4a9d" />
+
